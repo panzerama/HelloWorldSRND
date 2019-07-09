@@ -1,2 +1,2 @@
 # HelloWorldSRND
-Today we're talking about git.
+Today we're talking about bananas.
