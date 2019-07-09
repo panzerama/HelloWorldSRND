@@ -1,2 +1,2 @@
 # HelloWorldSRND
-Today we're talking about apples.
+Today we're talking about bananas.
